@@ -2,7 +2,17 @@
     padding: 10px;
 }
 
-.jumbotron {
+.jumbotron{
     text-align: center;
 
 }
+
+.container-fluid{
+    text-align: center;
+}
+
+.row div{
+    padding: 20px 10px;
+
+ }
+
